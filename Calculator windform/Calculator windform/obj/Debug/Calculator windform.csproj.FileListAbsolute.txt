@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Calculator windform\Calculator windform\bin\Debug\Calculator windform.exe.config
+C:\Users\user\Desktop\Calculator windform\Calculator windform\bin\Debug\Calculator windform.exe
+C:\Users\user\Desktop\Calculator windform\Calculator windform\bin\Debug\Calculator windform.pdb
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator windform.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator_windform.Properties.Resources.resources
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator windform.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator windform.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator windform.exe
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator windform.pdb
+C:\Users\user\Desktop\Calculator windform\Calculator windform\obj\Debug\Calculator_windform.Form1.resources
