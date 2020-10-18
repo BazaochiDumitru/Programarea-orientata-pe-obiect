@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\bin\Debug\Datagrigview.exe.config
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\bin\Debug\Datagrigview.exe
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\bin\Debug\Datagrigview.pdb
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.Form1.resources
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.Properties.Resources.resources
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.exe
+C:\Users\user\Desktop\Proiect personal 2\Datagrigview\obj\Debug\Datagrigview.pdb
