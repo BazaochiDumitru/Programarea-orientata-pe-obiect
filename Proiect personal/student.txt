@@ -1,0 +1,6 @@
+# La iesire avem punctajul mediu pentru fiecare student
+Student,Exam1,Exam2,Exam3,Exam4,Exam5,Exam6,Exam7
+Anton, 99,74,78,88,92,85,89
+Dumitru, 85,92,82,80,79,95,87
+Vladislav, 77,88,99,86,92,83,78
+Maxim, 85,86,91,93,84,79,95
