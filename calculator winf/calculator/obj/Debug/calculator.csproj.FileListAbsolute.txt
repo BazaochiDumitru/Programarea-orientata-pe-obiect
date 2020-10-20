@@ -1,0 +1,28 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\calculator\calculator\bin\Debug\calculator.exe.config
+D:\calculator\calculator\bin\Debug\calculator.exe
+D:\calculator\calculator\bin\Debug\calculator.pdb
+D:\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\calculator\calculator\obj\Debug\calculator.exe
+D:\calculator\calculator\obj\Debug\calculator.pdb
