@@ -1,0 +1,88 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\bin\Debug\calculator.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Calculator 20.10\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\user\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\user\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\user\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\user\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+D:\Universitate\POO\Dima\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Universitate\POO\Dima\calculator\calculator\bin\Debug\calculator.exe
+D:\Universitate\POO\Dima\calculator\calculator\bin\Debug\calculator.pdb
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.exe
+D:\Universitate\POO\Dima\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\user\Desktop\calculator (1)\calculator\calculator\obj\Debug\calculator.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\bin\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\bin\Debug\calculator.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 30.10\calculator\calculator\obj\Debug\calculator.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\bin\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\bin\Debug\calculator.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.pdb
