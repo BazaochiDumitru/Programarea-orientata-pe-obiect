@@ -1,0 +1,30 @@
+D:\Universitate\POO\C# Projects Study\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Universitate\POO\C# Projects Study\TextEditor\bin\Debug\TextEditor.exe
+D:\Universitate\POO\C# Projects Study\TextEditor\bin\Debug\TextEditor.pdb
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.exe
+D:\Universitate\POO\C# Projects Study\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\user\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\user\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\user\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\user\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\user\Desktop\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe.config
+C:\Users\user\Desktop\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe
+C:\Users\user\Desktop\Text Redactor\Text Redactor\bin\Debug\TextEditor.pdb
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.Form1.resources
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.exe
+C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.pdb
