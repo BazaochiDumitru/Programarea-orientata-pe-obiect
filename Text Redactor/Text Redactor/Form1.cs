@@ -18,6 +18,7 @@ namespace TextEditor
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
@@ -28,12 +29,16 @@ namespace TextEditor
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (OpenFileDialog dialog = new OpenFileDialog())
+            using (OpenFileDialog ofd = new OpenFileDialog() { Filter = "Text Document|*.txt", ValidateNames = true, Multiselect = false })
             {
-                if (dialog.ShowDialog() == DialogResult.OK)
+                if (ofd.ShowDialog() == DialogResult.OK)
                 {
-                    FilePath = dialog.FileName;
-                    richTextBox1.Text = File.ReadAllText(FilePath);
+                    using (StreamReader sr = new StreamReader(ofd.FileName))
+                    {
+                        FilePath = ofd.FileName;
+                        Task<string> text = sr.ReadToEndAsync();
+                        richTextBox1.Text = text.Result;
+                    }
                 }
             }
         }
@@ -42,26 +47,36 @@ namespace TextEditor
         {
             if (string.IsNullOrEmpty(FilePath))
             {
-                using (SaveFileDialog dialog = new SaveFileDialog())
+                using (SaveFileDialog sfd = new SaveFileDialog() { Filter = "Text Document|*.txt", ValidateNames = true })
                 {
-                    if (dialog.ShowDialog() == DialogResult.OK)
+                    if (sfd.ShowDialog() == DialogResult.OK)
                     {
-                        FilePath = dialog.FileName;
-                        File.WriteAllText(FilePath, richTextBox1.Text);
+                        using (StreamWriter sw = new StreamWriter(sfd.FileName))
+                        {
+                            sw.WriteLineAsync(richTextBox1.Text);
+                        }
                     }
                 }
             }
-            File.WriteAllText(FilePath, richTextBox1.Text);
+            else
+            {
+                using (StreamWriter sw = new StreamWriter(FilePath))
+                {
+                    sw.WriteLineAsync(richTextBox1.Text);
+                }
+            }
         }
 
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (SaveFileDialog dialog = new SaveFileDialog())
+            using (SaveFileDialog sfd = new SaveFileDialog() { Filter = "Text Document|*.txt", ValidateNames = true })
             {
-                if (dialog.ShowDialog() == DialogResult.OK)
+                if (sfd.ShowDialog() == DialogResult.OK)
                 {
-                    FilePath = dialog.FileName;
-                    File.WriteAllText(FilePath, richTextBox1.Text);
+                    using (StreamWriter sw = new StreamWriter(sfd.FileName))
+                    {
+                        sw.WriteLineAsync(richTextBox1.Text);
+                    }
                 }
             }
         }
@@ -106,6 +121,7 @@ namespace TextEditor
                 return;
             richTextBox1.SelectionColor = colorDialog1.Color;
         }
+
         private void Bold_Click(object sender, EventArgs e)
         {
             String s = richTextBox1.SelectedText;

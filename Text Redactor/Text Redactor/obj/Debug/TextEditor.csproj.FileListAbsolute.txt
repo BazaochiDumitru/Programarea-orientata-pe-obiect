@@ -28,3 +28,23 @@ C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.Ge
 C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.exe
 C:\Users\user\Desktop\Text Redactor\Text Redactor\obj\Debug\TextEditor.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\bin\Debug\TextEditor.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de redactor text\Text Redactor\Text Redactor\obj\Debug\TextEditor.pdb
