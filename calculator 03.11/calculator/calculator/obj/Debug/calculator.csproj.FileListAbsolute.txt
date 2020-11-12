@@ -86,3 +86,13 @@ D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate ver
 D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.exe
 D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 01.11\calculator\calculator\obj\Debug\calculator.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\bin\Debug\calculator.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\bin\Debug\calculator.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\bin\Debug\calculator.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de calculator\calculator 03.11\calculator\calculator\obj\Debug\calculator.pdb
