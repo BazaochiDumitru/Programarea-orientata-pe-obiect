@@ -1,0 +1,29 @@
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\bin\Debug\Mail.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\bin\Debug\Mail.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\bin\Debug\Mail.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Mail\Mail\obj\Debug\Mail.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\bin\Debug\Mail.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de mail\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
