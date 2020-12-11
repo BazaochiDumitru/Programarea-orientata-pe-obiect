@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\PaintApplication\bin\Debug\PaintApplication.exe.config
+C:\Users\User\Desktop\PaintApplication\bin\Debug\PaintApplication.exe
+C:\Users\User\Desktop\PaintApplication\bin\Debug\PaintApplication.pdb
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.Form1.resources
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.exe
+C:\Users\User\Desktop\PaintApplication\obj\Debug\PaintApplication.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\bin\Debug\PaintApplication.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.csprojResolveAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Toate versiunile de editor grafic\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.Cache
