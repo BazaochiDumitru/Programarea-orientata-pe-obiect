@@ -1,0 +1,6 @@
+1/Bazaochi/Dumitru/20/IS21Z/9
+2/Banari/Vlad/19/IS21Z/9,5
+3/Ceaus/Maxim/20/IS21Z/8,7
+4/Munteanu/Victor/19/IS21Z/8,5
+5/Lungu/Andrei/20/MI21Z/8,6
+10/SFGHDSF/DSH/20/MI21Z/8

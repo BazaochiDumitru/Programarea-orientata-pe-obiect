@@ -1,0 +1,49 @@
+C:\Users\User\Desktop\Students\bin\Debug\Students.exe.config
+C:\Users\User\Desktop\Students\bin\Debug\Students.exe
+C:\Users\User\Desktop\Students\bin\Debug\Students.pdb
+C:\Users\User\Desktop\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Students\obj\Debug\Students.Form1.resources
+C:\Users\User\Desktop\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\User\Desktop\Students\obj\Debug\Students.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Students\obj\Debug\Students.exe
+C:\Users\User\Desktop\Students\obj\Debug\Students.pdb
+D:\Students\bin\Debug\Students.exe.config
+D:\Students\bin\Debug\Students.exe
+D:\Students\bin\Debug\Students.pdb
+D:\Students\obj\Debug\Students.csprojAssemblyReference.cache
+D:\Students\obj\Debug\Students.Form1.resources
+D:\Students\obj\Debug\Students.Properties.Resources.resources
+D:\Students\obj\Debug\Students.csproj.GenerateResource.cache
+D:\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\Students\obj\Debug\Students.exe
+D:\Students\obj\Debug\Students.pdb
+G:\Students\bin\Debug\Students.exe.config
+G:\Students\obj\Debug\Students.exe
+G:\Students\obj\Debug\Students.pdb
+G:\Students\bin\Debug\Students.exe
+G:\Students\bin\Debug\Students.pdb
+G:\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+G:\Students\obj\Debug\Students.Form1.resources
+G:\Students\obj\Debug\Students.Properties.Resources.resources
+G:\Students\obj\Debug\Students.csproj.GenerateResource.Cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.exe.config
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.pdb
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csprojAssemblyReference.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.Form1.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.Properties.Resources.resources
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csproj.GenerateResource.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.exe
+D:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.exe.config
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.exe
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\bin\Debug\Students.pdb
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csproj.ResolveComReference.cache
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.Form1.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.Properties.Resources.resources
+G:\Stick\University\Anul 2 Semestrul 1\Programarea orientata pe obiect\Personal\Students\obj\Debug\Students.csproj.GenerateResource.Cache
